@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/arun-store/static/css/main.2104763f.css",
+    "main.js": "/arun-store/static/js/main.0427ea8f.js",
+    "static/media/watch-2.jpg": "/arun-store/static/media/watch-2.914d144d0ca38defde19.jpg",
+    "static/media/blog-1.jpg": "/arun-store/static/media/blog-1.ba155d989afb69b6f6b8.jpg",
+    "static/media/watch-1.jpg": "/arun-store/static/media/watch-1.cc6bd706384c29c2ee03.jpg",
+    "index.html": "/arun-store/index.html",
+    "static/media/view.svg": "/arun-store/static/media/view.656dca615fdc5fb084c5199c18eeb24a.svg",
+    "static/media/wish.svg": "/arun-store/static/media/wish.417da1a5c71c1c516af8c35a335efa66.svg",
+    "static/media/prodcompare.svg": "/arun-store/static/media/prodcompare.2bbfd340c94177fd1223af04956c03dc.svg",
+    "static/media/add-cart.svg": "/arun-store/static/media/add-cart.07089cca7ace32a4716dc122b1b11a68.svg",
+    "static/media/wishlist.svg": "/arun-store/static/media/wishlist.e2b76316c68ed8ae4128cca85f622430.svg",
+    "main.2104763f.css.map": "/arun-store/static/css/main.2104763f.css.map",
+    "main.0427ea8f.js.map": "/arun-store/static/js/main.0427ea8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2104763f.css",
+    "static/js/main.0427ea8f.js"
+  ]
+}
