@@ -128,7 +128,7 @@ const OurStore = () => {
                     <div>
                         <div className='random-products mb-3 d-flex'>
                             <div className='w-50'>
-                                <img src='images/headphone.jpg' className='img-fluid' />
+                                <img src='images/headphone.jpg' className='img-fluid'  alt='picture'/>
                             </div>
                             <div className='w-50'>
                                 <h5>Kids headphones bulk 10 pack multicolors for students.</h5>
@@ -145,7 +145,7 @@ const OurStore = () => {
 
                         <div className='random-products  d-flex'>
                             <div className='w-50'>
-                                <img src='images/headphone.jpg' className='img-fluid' />
+                                <img src='images/headphone.jpg' className='img-fluid' alt='picture'/>
                             </div>
                             <div className='w-50'>
                                 <h5>Kids headphones bulk 10 pack multicolors for students.</h5>
@@ -168,9 +168,9 @@ const OurStore = () => {
                         <div className='d-flex justify-content-between align-items-center'>
                         <div className='d-flex align-items-center gap-10'>
                             <p className='mb-0 d-block ' style={{width:"100px"}}>Sort By:</p>
-                            <select name='' className='form-control form-select' id=''>
+                            <select name='' defaultValue={"manual"} className='form-control form-select' id=''>
                                 <option value={"manual"}>Featured</option>
-                                <option value={"best-selling"} selected="selected">Best Selling</option>
+                                <option value={"best-selling"} >Best Selling</option>
                                 <option value={"title-ascending"}>Alphabetically, A - Z</option>
                                 <option value={"title-descending"}>Alphabetically, Z- A</option>
                                 <option value={"price-ascending"}>Price, low to high</option>
